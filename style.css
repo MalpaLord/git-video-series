@@ -25,12 +25,16 @@ body {
 }
 
 .video-info.snm{
-    width: 600px;
+    width: 1000px;
     text-align: center;
+    display: flex;
+}
+.video-info.snm p {
+    margin: 25px 0px;
 }
 
 #snm {
-    width: 500px;
+    width: auto;
 }
 
 .video-info.fall {
